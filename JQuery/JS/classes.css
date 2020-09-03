@@ -1,0 +1,23 @@
+.hot {
+
+	background-color: pink;
+	color: black;
+	font-size: 20px;
+	padding-left: 20px;
+  }
+
+.cool {
+
+ 	background-color: lightblue;
+	color: black;
+	font-size: 15px;
+	padding-left: 20px;
+ }
+
+ .complete {
+ 	background-color: lightgreen;
+	color: black;
+	text-align: center;
+	font-size: 15px;
+	margin:20px 100px;
+ }
